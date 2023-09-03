@@ -1,0 +1,21 @@
+1) Não compilará corretamente
+2) 9, 10, 11
+3) C
+4) 
+a) 10
+b) 5.9
+c) FFA0
+d) FFB4
+e) 10
+f) 5.9
+g) FFF0
+h) FFB4
+i) FFA0
+j) FFCA
+k) 0
+l) FFC6
+m) FFA6
+n) FFA0
+o) FFF0
+p) FFF4
+q) FFD4
